@@ -15,6 +15,7 @@ public class Program {
         System.out.println("Enter three numbers");
         int first = scanner.nextInt();
         int second = scanner.nextInt();
+        int a = 5;
         int third = scanner.nextInt();
 
         int sum = first + second + third;
